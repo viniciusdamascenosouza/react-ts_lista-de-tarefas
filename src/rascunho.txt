@@ -1,0 +1,24 @@
+Lista de tarefas
+
+1- Criar componente ListaDeTarefas
+- definir states do useState
+
+2- Criar função para adicionar tarefas
+- com comparação, se o valor adicionado não for vazio, ser adionado no inicio da lista
+zerar o campo de busca, pra futura proxima adição
+
+3- Criar função para remover tarefas
+- usar index como parametro
+- criar novasTarefas
+- usar método que remova um item atraves do parametro
+- atualizar lista de tarefas
+
+4- Com useEffect atualizar title da aba do navegador
+- usar document.title
+
+5- No jsx:
+- definir titulo
+- criar form
+  - com input e button para adicionar tarefas
+- lista não ordenada, com método map para listar em cada item as terefas criadas
+
